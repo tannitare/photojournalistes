@@ -1,2 +1,4 @@
 # photojournalistes
-Le dépôt pour le cours MA-Vorlesung 
+Voici mon travail pour le cours MA
+# premier paragraphe 
+texte ici 
