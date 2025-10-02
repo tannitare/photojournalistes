@@ -1,12 +1,16 @@
-* Astronomie
-  * https://fr.wikipedia.org/wiki/Astronomie
-  * https://en.wikipedia.org/wiki/Astronomy
+* Photojournalisme
+  * https://fr.wikipedia.org/wiki/Photojournalisme
+  * https://en.wikipedia.org/wiki/Photojournalism
 
-* Astronome
-  * https://fr.wikipedia.org/wiki/Astronome
-  * https://en.wikipedia.org/wiki/Astronomer
+* Reporter-photographe ou photojournaliste
+  * https://fr.wikipedia.org/wiki/Reporter-photographe
 
-* Listes d'astonomes:
-    * https://fr.wikipedia.org/wiki/Liste_d'astronomes
-    * https://en.wikipedia.org/wiki/List_of_astronomers
-    * https://de.wikipedia.org/wiki/Liste_von_Astronominnen ; https://de.wikipedia.org/wiki/Liste_von_m%C3%A4nnlichen_Astronomen
+
+* Listes de photojournalistes:
+    * https://en.wikipedia.org/wiki/List_of_photojournalists
+    * https://en.wikipedia.org/wiki/List_of_Australian_photojournalists
+    * https://en.wikipedia.org/wiki/List_of_American_photojournalists
+    * https://en.wikipedia.org/wiki/List_of_Canadian_photojournalis
+
+* Liste de photographes 
+    * https://fr.wikipedia.org/wiki/Liste_de_photographes
