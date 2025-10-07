@@ -41,7 +41,6 @@
 
 ## Relations entre objets
 
-N.B. Il n'y a ici que quelques exemples, généralement le domaine des relations est le plus riche et important
 
 - personne est née dans lieu
 - personne a fait formation 
