@@ -24,7 +24,7 @@
 - collaborations 
 
 
-### Lieu
+### Lieu de réportage 
 - nom
 - type
 - coordonnées géographiques
