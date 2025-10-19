@@ -19,16 +19,36 @@
 - importance 
 - domaine de compétence 
 - siège
-- fondation et éventuelle fin 
+- date de fondation 
+- date de fin 
 - affiliations
 - collaborations 
 
 
-### Lieu de réportage 
+### Lieu géographique  
 - nom
 - type
 - coordonnées géographiques
+
+
+### Evénement 
+- lieu 
+- date de début
+- date de fin
+- type d'événement
+
+
+### Reportage
+- auteur 
+- lieu
+- datation 
 - événement
+- type
+- journal de publication
+- organisation de publication
+- public cible
+- mandat
+
 
 ### Oeuvre
 - référence bibliographique
