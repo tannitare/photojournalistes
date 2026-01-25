@@ -1,0 +1,3 @@
+# Présentation du modèle conceptuel 
+Ce modèle a pour objectif de structurer les données relatives aux photojournalistes, leurs identités (appellations), leurs liens familiaux, leurs affiliations professionnelles ainsi que leurs travaux (reportages) liés à des événements et des lieux géographiques. 
+Six entités, écrites en anglais, sont présentes à l'état actuel, notamment "person", "appelation", "photo reportage", "organisation", "event" et "geographical place". Elles sont liées par une logique de relations et de cardinalités, se concentrant sur les aspects biographique, professionnel et géographique. 
