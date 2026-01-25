@@ -4,7 +4,7 @@
 Le présent dossier a été réalisé dans le cadre du cours master "From Information to data: introduction to research information systems for historical and social sciences" donné par Francesco Beretta à l'UNIFR pendant le semestre d'automne 2025. 
 L'enjeu est de transformer des données semi-structurées issues du web sémantique en une base de données relationnelle exploitable pour l'analyse historique (carrières, zones géographiques, réseaux). Ensuite, il est question d'appliquer la méthode **prosopographique** (biographie collective) à une population de photojournalistes. 
 
-## Méthodologie & Sources
+## Sources
 Le choix de la population s'est fait de façon aléatoire, principalement en lien avec mon mémoire de master. En particulier, elle a été constituée à partir des entrées DBpedia correspondant à la catégorie des photojournalistes. 
 
 ### Étapes de réalisation :
