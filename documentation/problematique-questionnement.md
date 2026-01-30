@@ -5,10 +5,10 @@ En adoptant une démarche exploratoire, il s'agit de proposer un modèle du cham
 ## Questions de recerche
 
 * Y a-t-il une corrélation ou une spécificité des parcours en fonction des origines sociales, du pays d'origine ou de la génération?
-* Y a-t-il une relation entre le métier choisi (photojournaliste de guerre) et les caractéristiques socio-démographiques?
-* Quelle est l'évolution de l'appartenance aux organisations ou mouvances plus informelles — là égalément en relation avec les facteurs socio-démographiques?
-* Quelles relations structurantes on observe entre organisations, quelle évolution dans le temps?
-* Quelles influences de filiation intellectuelle ou de métier, ou rapports maître-élève ou hiérarchiques, structurent le champ dans son évolution temporelle? Voit-on apparaître des écoles ou des mouvements?
+* Est il possible de comprenre l'image du photojournaliste dans la société à partir des informations biographiques répérables? 
+* Existe-t-il une corrélation entre métier et classe sociale d'origine? 
+* Y a-t-il une corrélation entre la typologie de formation, le champ journalistique choisi et les pays où les photoréportages ont été réalisés?
+* Quelle est l'évolution de l'appartenance aux organisations ou aux périodiques dans le temps? 
 * Comment les facteurs socio-démographiques et les autres aspects structurels du champ influencent la (ou résultent de) la sphère des publications (genres littéraires, thématiques, éditeurs, etc.)?
 
 
