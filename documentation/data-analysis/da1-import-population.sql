@@ -78,30 +78,30 @@ ORDER BY num DESC;
  */
 
 SELECT *
-FROM person_label
+FROM import_person_label
 LIMIT 10;
 
 --DROP INDEX idx_person_label;
-CREATE UNIQUE INDEX idx_person_label ON person_label(person_uri, person_label);
+CREATE UNIQUE INDEX idx_person_label ON import_person_label(person_uri, person_label);
 
 
 -- no person with two labels
 SELECT COUNT(*), person_uri
-FROM person_label
+FROM import_person_label
 GROUP BY person_uri 
 having count(*) > 1;
 
 -- persons without label
 SELECT COUNT(*)
 FROM person p 
-   LEFT JOIN person_label pl 
+   LEFT JOIN import_person_label pl 
    		ON pl.person_uri = p.wikidata_uri 
 WHERE pl.person_label IS NULL;
 
 
 -- add the labels where they exist
 UPDATE person SET label = pl.person_label
-FROM person_label pl 
+FROM import_person_label pl 
 WHERE pl.person_uri = wikidata_uri
 AND pl.person_label IS NOT NULL;
 
